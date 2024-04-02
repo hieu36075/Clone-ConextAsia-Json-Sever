@@ -37,7 +37,7 @@
           "id": 1,
           "name": "Da Nang Tech Hub",
           "address": "24 Tran Phu",
-          "url": "https://example.com/danangtechhub",
+          "url": "https://studyonline.rmit.edu.au/sites/default/files/RMIT_MHRM_Skyscraper_Article_%232_-Creating_and_Sustaining_a_Positive_Workplace_Culture_Header_0.jpg ",
           "price": 15000,
           "longitude": 108.206230,
           "latitude": 16.054406
@@ -46,7 +46,7 @@
           "id": 2,
           "name": "Da Nang Creative Space",
           "address": "58 Bach Dang",
-          "url": "https://example.com/danangcreativespace",
+          "url": "https://www.betterup.com/hubfs/Happy-collegues-working-on-project-together-workplace-environments.jpg#keepProtocol",
           "price": 12000,
           "longitude": 108.224018,
           "latitude": 16.075312
@@ -55,7 +55,7 @@
             "id": 5,
             "name": "Hanoi Innovation Hub",
             "address": "35 Ta Hien",
-            "url": "https://example.com/hanoiinnovationhub",
+            "url": "https://convene.com/wp-content/uploads/2022/03/Workplace_02_Modern_640x640-1-640x640.jpgb",
             "price": 17000,
             "longitude": 105.854176,
             "latitude": 21.030228
@@ -64,7 +64,7 @@
             "id": 6,
             "name": "Saigon Co-Work Space",
             "address": "47 Nguyen Hue",
-            "url": "https://example.com/saigoncowork",
+            "url": "https://www.betterup.com/hubfs/Happy-collegues-working-on-project-together-workplace-environments.jpg#keepProtocol",
             "price": 18000,
             "longitude": 106.698289,
             "latitude": 10.774797
@@ -73,7 +73,7 @@
             "id": 7,
             "name": "Central Park Office Hub",
             "address": "117 Le Lai",
-            "url": "https://example.com/centralparkoffice",
+            "url": "https://convene.com/wp-content/uploads/2022/03/Workplace_02_Modern_640x640-1-640x640.jpg",
             "price": 19000,
             "longitude": 106.694359,
             "latitude": 10.771989
@@ -82,7 +82,7 @@
             "id": 8,
             "name": "Old Quarter Creative Studio",
             "address": "49 Hang Bac",
-            "url": "https://example.com/oldquartercreativestudio",
+            "url": "https://convene.com/wp-content/uploads/2022/03/Workplace_02_Modern_640x640-1-640x640.jpg",
             "price": 16000,
             "longitude": 105.851519,
             "latitude": 21.035918
@@ -100,7 +100,7 @@
           "id": 1,
           "name": "Saigon Tech Tower",
           "address": "65 Le Loi",
-          "url": "https://example.com/saigontechtower",
+          "url": "https://studyonline.rmit.edu.au/sites/default/files/RMIT_MHRM_Skyscraper_Article_%232_-Creating_and_Sustaining_a_Positive_Workplace_Culture_Header_0.jpg",
           "price": 20000,
           "longitude": 106.701775,
           "latitude": 10.775659
@@ -109,7 +109,7 @@
           "id": 2,
           "name": "District 1 Creative Hub",
           "address": "25 Dong Khoi",
-          "url": "https://example.com/district1creativehub",
+          "url": "https://www.betterup.com/hubfs/Happy-collegues-working-on-project-together-workplace-environments.jpg#keepProtocol",
           "price": 18000,
           "longitude": 106.703349,
           "latitude": 10.776889
@@ -126,7 +126,7 @@
           "id": 1,
           "name": "Hanoi Innovation Center",
           "address": "34 Ba Trieu",
-          "url": "https://example.com/hanoiinnovationcenter",
+          "url": "https://studyonline.rmit.edu.au/sites/default/files/RMIT_MHRM_Skyscraper_Article_%232_-Creating_and_Sustaining_a_Positive_Workplace_Culture_Header_0.jpg",
           "price": 16000,
           "longitude": 105.850176,
           "latitude": 21.022736
@@ -135,7 +135,7 @@
           "id": 2,
           "name": "Old Quarter Startup Hub",
           "address": "48 Hang Ngang",
-          "url": "https://example.com/oldquarterstartuphub",
+          "url": "https://www.betterup.com/hubfs/Happy-collegues-working-on-project-together-workplace-environments.jpg#keepProtocol",
           "price": 14000,
           "longitude": 105.848020,
           "latitude": 21.031571
