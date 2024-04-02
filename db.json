@@ -1,0 +1,97 @@
+{
+  "users": [
+    {
+      "id":1,
+      "email": "ngocthanh@gmail.com",
+      "name": "ngoc thanh",
+      "password": "thanh123"
+    },
+    {
+      "id":2,
+      "email": "ngocthanh23@gmail.com",
+      "name": "ngoc thanh2",
+      "password": "test123"
+    }
+
+  ],
+  "Locations": [
+    {
+      "id": 1,
+      "name": "Da Nang",
+      "longitude": 108.202167,
+      "latitude": 16.047079,
+      "Workplaces": [
+        {
+          "id": 1,
+          "name": "Da Nang Tech Hub",
+          "address": "24 Tran Phu",
+          "url": "https://example.com/danangtechhub",
+          "price": 15000,
+          "longitude": 108.206230,
+          "latitude": 16.054406
+        },
+        {
+          "id": 2,
+          "name": "Da Nang Creative Space",
+          "address": "58 Bach Dang",
+          "url": "https://example.com/danangcreativespace",
+          "price": 12000,
+          "longitude": 108.224018,
+          "latitude": 16.075312
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Ho Chi Minh City",
+      "longitude": 106.629664,
+      "latitude": 10.823099,
+      "Workplaces": [
+        {
+          "id": 1,
+          "name": "Saigon Tech Tower",
+          "address": "65 Le Loi",
+          "url": "https://example.com/saigontechtower",
+          "price": 20000,
+          "longitude": 106.701775,
+          "latitude": 10.775659
+        },
+        {
+          "id": 2,
+          "name": "District 1 Creative Hub",
+          "address": "25 Dong Khoi",
+          "url": "https://example.com/district1creativehub",
+          "price": 18000,
+          "longitude": 106.703349,
+          "latitude": 10.776889
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Ha Noi",
+      "longitude": 105.834160,
+      "latitude": 21.027764,
+      "Workplaces": [
+        {
+          "id": 1,
+          "name": "Hanoi Innovation Center",
+          "address": "34 Ba Trieu",
+          "url": "https://example.com/hanoiinnovationcenter",
+          "price": 16000,
+          "longitude": 105.850176,
+          "latitude": 21.022736
+        },
+        {
+          "id": 2,
+          "name": "Old Quarter Startup Hub",
+          "address": "48 Hang Ngang",
+          "url": "https://example.com/oldquarterstartuphub",
+          "price": 14000,
+          "longitude": 105.848020,
+          "latitude": 21.031571
+        }
+      ]
+    }
+  ]
+}
