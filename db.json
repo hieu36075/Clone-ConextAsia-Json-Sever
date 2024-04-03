@@ -111,6 +111,24 @@
           "price": 18000,
           "longitude": 106.703349,
           "latitude": 10.776889
+        },
+        {
+          "id": 3,
+          "name": "Saigon Riverside Office",
+          "address": "8 Ton Duc Thang",
+          "url": "https://images.inc.com/uploaded_files/image/1920x1080/getty_1011792694_397146.jpg",
+          "price": 21000,
+          "longitude": 106.706088,
+          "latitude": 10.771992
+        },
+        {
+          "id": 4,
+          "name": "Ben Thanh Market Hub",
+          "address": "Le Loi",
+          "url": "https://www.contourinteriors.com.au/wp-content/uploads/2022/07/workplace-ergonomics-australia.jpg",
+          "price": 19500,
+          "longitude": 106.698446,
+          "latitude": 10.772550
         }
       ]
     },
@@ -137,6 +155,33 @@
           "price": 14000,
           "longitude": 105.84802,
           "latitude": 21.031571
+        },
+        {
+          "id": 3,
+          "name": "West Lake Tech Villa",
+          "address": "To Ngoc Van",
+          "url": "https://www.contourinteriors.com.au/wp-content/uploads/2022/07/workplace-ergonomics-australia.jpg",
+          "price": 22000,
+          "longitude": 105.827156,
+          "latitude": 21.062836
+        },
+        {
+          "id": 4,
+          "name": "The Hanoi Opera House Co-Work",
+          "address": "1 Trang Tien",
+          "url": "https://www.tacticalprojectmanagement.com/wp-content/uploads/team-workplace-opt.png",
+          "price": 24000,
+          "longitude": 105.854529,
+          "latitude": 21.024504
+        },
+        {
+          "id": 5,
+          "name": "Ba Dinh Square Studio",
+          "address": "Hung Vuong",
+          "url": "https://www.tacticalprojectmanagement.com/wp-content/uploads/team-workplace-opt.png",
+          "price": 18000,
+          "longitude": 105.832227,
+          "latitude": 21.036797
         }
       ]
     }
