@@ -1,30 +1,29 @@
 {
   "users": [
     {
-      "id":1,
+      "id": 1,
       "email": "ngocthanh@gmail.com",
       "name": "ngoc thanh",
       "password": "thanh123"
     },
     {
-      "id":2,
+      "id": 2,
       "email": "quang@gmail.com",
       "name": "quang",
       "password": "test123"
     },
     {
-      "id":3,
+      "id": 3,
       "email": "khanh@gmail.com",
       "name": "khanh",
       "password": "test123"
     },
     {
-      "id":4,
+      "id": 4,
       "email": "hieu@gmail.com",
       "name": "hieu",
       "password": "test123"
     }
-
   ],
   "Locations": [
     {
@@ -39,7 +38,7 @@
           "address": "24 Tran Phu",
           "url": "https://studyonline.rmit.edu.au/sites/default/files/RMIT_MHRM_Skyscraper_Article_%232_-Creating_and_Sustaining_a_Positive_Workplace_Culture_Header_0.jpg ",
           "price": 15000,
-          "longitude": 108.206230,
+          "longitude": 108.20623,
           "latitude": 16.054406
         },
         {
@@ -51,43 +50,42 @@
           "longitude": 108.224018,
           "latitude": 16.075312
         },
-          {
-            "id": 5,
-            "name": "Hanoi Innovation Hub",
-            "address": "35 Ta Hien",
-            "url": "https://convene.com/wp-content/uploads/2022/03/Workplace_02_Modern_640x640-1-640x640.jpgb",
-            "price": 17000,
-            "longitude": 105.854176,
-            "latitude": 21.030228
-          },
-          {
-            "id": 6,
-            "name": "Saigon Co-Work Space",
-            "address": "47 Nguyen Hue",
-            "url": "https://www.betterup.com/hubfs/Happy-collegues-working-on-project-together-workplace-environments.jpg#keepProtocol",
-            "price": 18000,
-            "longitude": 106.698289,
-            "latitude": 10.774797
-          },
-          {
-            "id": 7,
-            "name": "Central Park Office Hub",
-            "address": "117 Le Lai",
-            "url": "https://convene.com/wp-content/uploads/2022/03/Workplace_02_Modern_640x640-1-640x640.jpg",
-            "price": 19000,
-            "longitude": 106.694359,
-            "latitude": 10.771989
-          },
-          {
-            "id": 8,
-            "name": "Old Quarter Creative Studio",
-            "address": "49 Hang Bac",
-            "url": "https://convene.com/wp-content/uploads/2022/03/Workplace_02_Modern_640x640-1-640x640.jpg",
-            "price": 16000,
-            "longitude": 105.851519,
-            "latitude": 21.035918
-          }
-        
+        {
+          "id": 5,
+          "name": "Hanoi Innovation Hub",
+          "address": "35 Ta Hien",
+          "url": "https://conext-production.s3.ap-southeast-1.amazonaws.com/21673595_46990955_64580699_53795393.png",
+          "price": 17000,
+          "longitude": 105.854176,
+          "latitude": 21.030228
+        },
+        {
+          "id": 6,
+          "name": "Saigon Co-Work Space",
+          "address": "47 Nguyen Hue",
+          "url": "https://www.betterup.com/hubfs/Happy-collegues-working-on-project-together-workplace-environments.jpg#keepProtocol",
+          "price": 18000,
+          "longitude": 106.698289,
+          "latitude": 10.774797
+        },
+        {
+          "id": 7,
+          "name": "Central Park Office Hub",
+          "address": "117 Le Lai",
+          "url": "https://conext-production.s3.ap-southeast-1.amazonaws.com/64775483_39945853_39110715_46208967.png",
+          "price": 19000,
+          "longitude": 106.694359,
+          "latitude": 10.771989
+        },
+        {
+          "id": 8,
+          "name": "Old Quarter Creative Studio",
+          "address": "49 Hang Bac",
+          "url": "https://conext-production.s3.ap-southeast-1.amazonaws.com/69329038_61346515_30906458_22557038.png",
+          "price": 16000,
+          "longitude": 105.851519,
+          "latitude": 21.035918
+        }
       ]
     },
     {
@@ -119,7 +117,7 @@
     {
       "id": 3,
       "name": "Ha Noi",
-      "longitude": 105.834160,
+      "longitude": 105.83416,
       "latitude": 21.027764,
       "Workplaces": [
         {
@@ -137,7 +135,7 @@
           "address": "48 Hang Ngang",
           "url": "https://www.betterup.com/hubfs/Happy-collegues-working-on-project-together-workplace-environments.jpg#keepProtocol",
           "price": 14000,
-          "longitude": 105.848020,
+          "longitude": 105.84802,
           "latitude": 21.031571
         }
       ]
