@@ -39,7 +39,8 @@
           "url": "https://studyonline.rmit.edu.au/sites/default/files/RMIT_MHRM_Skyscraper_Article_%232_-Creating_and_Sustaining_a_Positive_Workplace_Culture_Header_0.jpg ",
           "price": 15000,
           "longitude": 108.20623,
-          "latitude": 16.054406
+          "latitude": 16.054406,
+          "overview": "Centrally located in the coastal city of Danang, DNC- Danang Coworking space aims to create a vibrant hub for innovation & creative industry. We’ll suit your best needs by providing an inspiring workspace with modern facilities along with a close-knit community of like-minded entrepreneurs. Together with DNES-Danang Business Incubator, we are proud to be nominated asthe 3rd most creative spaces in Vietnam by British Council in 2018."
         },
         {
           "id": 2,
@@ -48,7 +49,8 @@
           "url": "https://www.betterup.com/hubfs/Happy-collegues-working-on-project-together-workplace-environments.jpg#keepProtocol",
           "price": 12000,
           "longitude": 108.224018,
-          "latitude": 16.075312
+          "latitude": 16.075312,
+          "overview": "Centrally located in the coastal city of Danang, DNC- Danang Coworking space aims to create a vibrant hub for innovation & creative industry. We’ll suit your best needs by providing an inspiring workspace with modern facilities along with a close-knit community of like-minded entrepreneurs. Together with DNES-Danang Business Incubator, we are proud to be nominated asthe 3rd most creative spaces in Vietnam by British Council in 2018."
         },
         {
           "id": 5,
@@ -57,7 +59,8 @@
           "url": "https://conext-production.s3.ap-southeast-1.amazonaws.com/21673595_46990955_64580699_53795393.png",
           "price": 17000,
           "longitude": 105.854176,
-          "latitude": 21.030228
+          "latitude": 21.030228,
+          "overview": "Centrally located in the coastal city of Danang, DNC- Danang Coworking space aims to create a vibrant hub for innovation & creative industry. We’ll suit your best needs by providing an inspiring workspace with modern facilities along with a close-knit community of like-minded entrepreneurs. Together with DNES-Danang Business Incubator, we are proud to be nominated asthe 3rd most creative spaces in Vietnam by British Council in 2018."
         },
         {
           "id": 6,
@@ -66,7 +69,8 @@
           "url": "https://www.betterup.com/hubfs/Happy-collegues-working-on-project-together-workplace-environments.jpg#keepProtocol",
           "price": 18000,
           "longitude": 106.698289,
-          "latitude": 10.774797
+          "latitude": 10.774797,
+          "overview": "Centrally located in the coastal city of Danang, DNC- Danang Coworking space aims to create a vibrant hub for innovation & creative industry. We’ll suit your best needs by providing an inspiring workspace with modern facilities along with a close-knit community of like-minded entrepreneurs. Together with DNES-Danang Business Incubator, we are proud to be nominated asthe 3rd most creative spaces in Vietnam by British Council in 2018."
         },
         {
           "id": 7,
@@ -75,7 +79,8 @@
           "url": "https://conext-production.s3.ap-southeast-1.amazonaws.com/64775483_39945853_39110715_46208967.png",
           "price": 19000,
           "longitude": 106.694359,
-          "latitude": 10.771989
+          "latitude": 10.771989,
+          "overview": "Centrally located in the coastal city of Danang, DNC- Danang Coworking space aims to create a vibrant hub for innovation & creative industry. We’ll suit your best needs by providing an inspiring workspace with modern facilities along with a close-knit community of like-minded entrepreneurs. Together with DNES-Danang Business Incubator, we are proud to be nominated asthe 3rd most creative spaces in Vietnam by British Council in 2018."
         },
         {
           "id": 8,
@@ -84,7 +89,8 @@
           "url": "https://conext-production.s3.ap-southeast-1.amazonaws.com/69329038_61346515_30906458_22557038.png",
           "price": 16000,
           "longitude": 105.851519,
-          "latitude": 21.035918
+          "latitude": 21.035918,
+          "overview": "Centrally located in the coastal city of Danang, DNC- Danang Coworking space aims to create a vibrant hub for innovation & creative industry. We’ll suit your best needs by providing an inspiring workspace with modern facilities along with a close-knit community of like-minded entrepreneurs. Together with DNES-Danang Business Incubator, we are proud to be nominated asthe 3rd most creative spaces in Vietnam by British Council in 2018."
         }
       ]
     },
@@ -95,40 +101,44 @@
       "latitude": 10.823099,
       "Workplaces": [
         {
-          "id": 1,
+          "id": 9,
           "name": "Saigon Tech Tower",
           "address": "65 Le Loi",
           "url": "https://studyonline.rmit.edu.au/sites/default/files/RMIT_MHRM_Skyscraper_Article_%232_-Creating_and_Sustaining_a_Positive_Workplace_Culture_Header_0.jpg",
           "price": 20000,
           "longitude": 106.701775,
-          "latitude": 10.775659
+          "latitude": 10.775659,
+          "overview": "Centrally located in the coastal city of Danang, DNC- Danang Coworking space aims to create a vibrant hub for innovation & creative industry. We’ll suit your best needs by providing an inspiring workspace with modern facilities along with a close-knit community of like-minded entrepreneurs. Together with DNES-Danang Business Incubator, we are proud to be nominated asthe 3rd most creative spaces in Vietnam by British Council in 2018."
         },
         {
-          "id": 2,
+          "id": 10,
           "name": "District 1 Creative Hub",
           "address": "25 Dong Khoi",
           "url": "https://www.betterup.com/hubfs/Happy-collegues-working-on-project-together-workplace-environments.jpg#keepProtocol",
           "price": 18000,
           "longitude": 106.703349,
-          "latitude": 10.776889
+          "latitude": 10.776889,
+          "overview": "Centrally located in the coastal city of Danang, DNC- Danang Coworking space aims to create a vibrant hub for innovation & creative industry. We’ll suit your best needs by providing an inspiring workspace with modern facilities along with a close-knit community of like-minded entrepreneurs. Together with DNES-Danang Business Incubator, we are proud to be nominated asthe 3rd most creative spaces in Vietnam by British Council in 2018."
         },
         {
-          "id": 3,
+          "id": 11,
           "name": "Saigon Riverside Office",
           "address": "8 Ton Duc Thang",
           "url": "https://images.inc.com/uploaded_files/image/1920x1080/getty_1011792694_397146.jpg",
           "price": 21000,
           "longitude": 106.706088,
-          "latitude": 10.771992
+          "latitude": 10.771992,
+          "overview": "Centrally located in the coastal city of Danang, DNC- Danang Coworking space aims to create a vibrant hub for innovation & creative industry. We’ll suit your best needs by providing an inspiring workspace with modern facilities along with a close-knit community of like-minded entrepreneurs. Together with DNES-Danang Business Incubator, we are proud to be nominated asthe 3rd most creative spaces in Vietnam by British Council in 2018."
         },
         {
-          "id": 4,
+          "id": 12,
           "name": "Ben Thanh Market Hub",
           "address": "Le Loi",
           "url": "https://www.contourinteriors.com.au/wp-content/uploads/2022/07/workplace-ergonomics-australia.jpg",
           "price": 19500,
           "longitude": 106.698446,
-          "latitude": 10.772550
+          "latitude": 10.772550,
+          "overview": "Centrally located in the coastal city of Danang, DNC- Danang Coworking space aims to create a vibrant hub for innovation & creative industry. We’ll suit your best needs by providing an inspiring workspace with modern facilities along with a close-knit community of like-minded entrepreneurs. Together with DNES-Danang Business Incubator, we are proud to be nominated asthe 3rd most creative spaces in Vietnam by British Council in 2018."
         }
       ]
     },
@@ -139,49 +149,54 @@
       "latitude": 21.027764,
       "Workplaces": [
         {
-          "id": 1,
+          "id": 13,
           "name": "Hanoi Innovation Center",
           "address": "34 Ba Trieu",
           "url": "https://studyonline.rmit.edu.au/sites/default/files/RMIT_MHRM_Skyscraper_Article_%232_-Creating_and_Sustaining_a_Positive_Workplace_Culture_Header_0.jpg",
           "price": 16000,
           "longitude": 105.850176,
-          "latitude": 21.022736
+          "latitude": 21.022736,
+          "overview": "Centrally located in the coastal city of Danang, DNC- Danang Coworking space aims to create a vibrant hub for innovation & creative industry. We’ll suit your best needs by providing an inspiring workspace with modern facilities along with a close-knit community of like-minded entrepreneurs. Together with DNES-Danang Business Incubator, we are proud to be nominated asthe 3rd most creative spaces in Vietnam by British Council in 2018."
         },
         {
-          "id": 2,
+          "id": 14,
           "name": "Old Quarter Startup Hub",
           "address": "48 Hang Ngang",
           "url": "https://www.betterup.com/hubfs/Happy-collegues-working-on-project-together-workplace-environments.jpg#keepProtocol",
           "price": 14000,
           "longitude": 105.84802,
-          "latitude": 21.031571
+          "latitude": 21.031571,
+          "overview": "Centrally located in the coastal city of Danang, DNC- Danang Coworking space aims to create a vibrant hub for innovation & creative industry. We’ll suit your best needs by providing an inspiring workspace with modern facilities along with a close-knit community of like-minded entrepreneurs. Together with DNES-Danang Business Incubator, we are proud to be nominated asthe 3rd most creative spaces in Vietnam by British Council in 2018."
         },
         {
-          "id": 3,
+          "id": 15,
           "name": "West Lake Tech Villa",
           "address": "To Ngoc Van",
           "url": "https://www.contourinteriors.com.au/wp-content/uploads/2022/07/workplace-ergonomics-australia.jpg",
           "price": 22000,
           "longitude": 105.827156,
-          "latitude": 21.062836
+          "latitude": 21.062836,
+          "overview": "Centrally located in the coastal city of Danang, DNC- Danang Coworking space aims to create a vibrant hub for innovation & creative industry. We’ll suit your best needs by providing an inspiring workspace with modern facilities along with a close-knit community of like-minded entrepreneurs. Together with DNES-Danang Business Incubator, we are proud to be nominated asthe 3rd most creative spaces in Vietnam by British Council in 2018."
         },
         {
-          "id": 4,
+          "id": 16,
           "name": "The Hanoi Opera House Co-Work",
           "address": "1 Trang Tien",
           "url": "https://www.tacticalprojectmanagement.com/wp-content/uploads/team-workplace-opt.png",
           "price": 24000,
           "longitude": 105.854529,
-          "latitude": 21.024504
+          "latitude": 21.024504,
+          "overview": "Centrally located in the coastal city of Danang, DNC- Danang Coworking space aims to create a vibrant hub for innovation & creative industry. We’ll suit your best needs by providing an inspiring workspace with modern facilities along with a close-knit community of like-minded entrepreneurs. Together with DNES-Danang Business Incubator, we are proud to be nominated asthe 3rd most creative spaces in Vietnam by British Council in 2018."
         },
         {
-          "id": 5,
+          "id": 17,
           "name": "Ba Dinh Square Studio",
           "address": "Hung Vuong",
           "url": "https://www.tacticalprojectmanagement.com/wp-content/uploads/team-workplace-opt.png",
           "price": 18000,
           "longitude": 105.832227,
-          "latitude": 21.036797
+          "latitude": 21.036797,
+          "overview": "Centrally located in the coastal city of Danang, DNC- Danang Coworking space aims to create a vibrant hub for innovation & creative industry. We’ll suit your best needs by providing an inspiring workspace with modern facilities along with a close-knit community of like-minded entrepreneurs. Together with DNES-Danang Business Incubator, we are proud to be nominated asthe 3rd most creative spaces in Vietnam by British Council in 2018."
         }
       ]
     }
