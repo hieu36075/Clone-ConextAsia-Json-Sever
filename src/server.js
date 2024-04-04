@@ -84,9 +84,6 @@ server.get('/locations', (req, res, next) => {
 server.get('/search/locations', (req, res, next) => {
   const queryParams = req.query;
   const locationName = queryParams.name ? queryParams.name.toLowerCase() : null;
-  const workplaceName = queryParams['workplace?name']
-    ? queryParams['workplace?name'].toLowerCase()
-    : null;
 
   let data = router.db.get('Locations').value();
   let results = [];
@@ -97,10 +94,20 @@ server.get('/search/locations', (req, res, next) => {
     let filteredWorkplaces = [];
 
     if (location.Workplaces && locationMatch) {
-      if (workplaceName) {
-        filteredWorkplaces = location.Workplaces.filter((workplace) =>
-          workplace.name.toLowerCase().includes(workplaceName)
-        );
+      const workplaceFilters = Object.keys(queryParams)
+        .filter(key => key.startsWith('workplace_'))
+        .reduce((filters, key) => {
+          const field = key.slice(10); 
+          filters[field] = queryParams[key].toLowerCase();
+          return filters;
+        }, {});
+
+      if (Object.keys(workplaceFilters).length > 0) {
+        filteredWorkplaces = location.Workplaces.filter((workplace) => {
+          return Object.entries(workplaceFilters).every(([field, value]) => {
+            return workplace[field] && workplace[field].toString().toLowerCase().includes(value);
+          });
+        });
       } else {
         filteredWorkplaces = location.Workplaces;
       }
@@ -115,6 +122,7 @@ server.get('/search/locations', (req, res, next) => {
 
   res.json(results);
 });
+
 
 server.listen(port, () => {
   console.log(`Ecommerce website listening on http://localhost:${port}`);
